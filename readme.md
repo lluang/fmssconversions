@@ -1,6 +1,9 @@
 # Simulation Modeling with SimPy
 
-This repository is for converting Barry Nelson, Fundamentals and Methods of Stochastic Programming, Chapter 4 of Simulation Programming with VBAsim so that the examples are made to use Python and the SimPy simulation library.  It is intended to both enable those using the textbook to use it with Python as well as to provide examples of good use of the SimPy simulation library.  In particular, as the SimPy simulation library is suitable for production use, unlike the other examples provided this library can be used without caveats.  Therefore, this chapter will also provide examples of use of Python as a scientific computing environment.  Additional versions are planned for R and Julia using simmmer and SimJulia respectively
+This repository is for converting Barry Nelson, Fundamentals and Methods of Stochastic Programming, Chapter 4 of Simulation Programming with VBAsim so that the examples are made to use Python and the SimPy simulation library.  It is intended to both enable those using the textbook to use it with Python as well as to provide examples of good use of the SimPy simulation library.  In particular, as the SimPy simulation library is suitable for production use, unlike the other examples provided this library can be used without caveats.  Therefore, this chapter will also provide examples of use of Python as a scientific computing environment.  Additional versions are planned for R and Julia using simmmer and SimJulia respectively.
+
+VBASim and JavaSim are copyright to Barry Nelson.
+PythonSim, RSim, and Simpy3 are copyright to Louis Luangkesorn and Licensed under MIT License
 
 # Requirements for Python
 
